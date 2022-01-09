@@ -1,0 +1,119 @@
+cores
+azul     #0e004b
+amarelo  #fff212
+verde    #06A956
+
+fonts
+
+font header
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+
+font corpo
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,700&display=swap" rel="stylesheet">
+
+font-family: 'Source Code Pro', monospace;
+
+fontawesome
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+
+
+
+
+<===HOME===>
+A solução ideal para a automação do seu comércio
+
+Nossos assistentes o atenderão na sua empresa.
+Atendemos de segunda a sexta, das 08h às 17:30h. E no sábado de 08h às 12h.
+Temos a solução ideal para a automação do seu comércio. 
+
+A SOLUÇÃO QUE VOCÊ PROCURA
+COMO PODEMOS AJUDAR
+Na Inforegis você encontra suporte para serviços de instalação, manutenção e assistência técnicade de equipamentos para automação, formatação de disco, avaliação e reparo de hardware, instalação e manutenção de redes de computadores. Na área comercial, oferecemos suprimentos dos melhores fabricantes, todos originais para garantir a vida útil dos equipamentos.
+Também somos revendedores de alguns dos melhores softwares de automação comercial do mercado. Caso tenha dúvidas sobre se cobrimos suas necessidades, ligue e converse conosco para que façamos um orçamento.
+
+QUEM SOMOS
+SOBRE A INFOREGIS
+No início, uma empresa de prestação de serviços para manutenção de máquinas registradoras, a Inforegis fundada em 1993 pelo Sr. Alberto Paca, foi atualizando seu ramo de atuação a medida que a tecnologia evoluia. Hoje, ainda no ramo da automação comercial, a Inforegis atende a uma gama de diversas empresas, de pequeno a grande porte, prestando toda a assistência necessária para a automação do seu negócio.
+
+Dificuldade em comunicação?
+Telefones: (21) 3100-5766
+Clique nos links abaixo de contatos do WhatsApp
+(21) 2269-4863
+(21) 96728-6711
+(21) 2594-2564
+(21) 98366-6311
+(21) 3899-7799
+
+Inforegis Automação Comercial Ltda.
+CNPJ: 72.343.957/0001-41
+inforegis@inforegisautomacao.com.br
+
+
+<=== serviços ===>
+NOSSOS SERVIÇOS
+INSTALAÇÃO DE SISTEMAS 
+Para pequenas ou grandes empresas, possuímos a ferramenta ideal para automatizar o controle e gerenciamento do seu negócio..
+
+TROCA DE PEÇAS
+Fazemos reparo e troca de partes queimadas ou que simplesmente pararam  de funcionar no seu computador.
+
+MANUTENÇÃO
+Diagnosticamos e reparamos pequenos problemas no seu sistema. Procuramos também sinais de futuros problemas.
+
+PERIFÉRICOS
+Sejam impressoras ou telas de computador que pararam de funcionar, nós garantimos o conserto de seus hardwares.
+
+SEGURANÇA
+Prestamos o serviço de reforçar a segurança  geral do seu computador, garantindo a segurança dos dados da empresa.
+
+BACKUP
+Realizamos o backup de todos os seus dados no disco rígido e lhe entregamos na forma que quiser: CDs, DVDs, etc.
+
+
+<===  vendas  ===>
+
+NOSSAS VENDAS
+
+IMPRESSORAS NÃO FISCAIS
+Trabalhamos com divernas marcas e modelos de impressoras não fiscais, como Elgin, Tanca, Daruma, Urano
+
+COMPUTADORES
+Na Inforegis, montamos computadores de acordo com a necessidade do seu negócio, solicite um orçamento.
+
+MONITORES
+Temos monitores de diversos tamanhos, além de opções com touchscreen, ideal para lanchonetes e restaurantes.
+
+LEITORES DE CÓDIGO DE BARRAS
+Solicite seu leitor conosco, possuimos leitores fixos ou manuais das melhores marcas do mercado.
+
+BALANÇAS
+Balanças Toledo, Urano ou Elgin de diversos modelos sob encomenda.
+
+SUPRIMENTOS
+Oferecemos suprimento dos melhores fabricantes, todos originais para garantir a vida útil dos equipamentos.
+
+<===  contato  ===>
+
+ENVIE-NOS UMA MENSAGEM
+
+TELEFONE
+(21) 3100-5766
+(21) 2269-4863                                                      
+(21) 2594-2564
+(21) 3899-7798
+(21) 96728-6711 
+(21) 98366-6311
+
+ ATENDIMENTO
+De segunda a sexta da 8h00 às 17h30
+Aos sábados de 08h00 às 12h00
+
+ENDEREÇO
+Rua Cincinato da Silva, 224 Campinho 
+Cep: 21341-260
